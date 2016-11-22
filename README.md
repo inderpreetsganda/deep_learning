@@ -23,4 +23,4 @@ This will run both deep learning models. But run one deep learning model at a ti
 
 ### Data
 
-The dataset used in this project is Large Movie Review Dataset. You have to download it separately [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/). You will also need to download [Glove Vectors 50 dimiensional](http://nlp.stanford.edu/projects/glove/). The unzipped files of the dataset and glove vectors should be in same folder that contains this README. 
+The dataset used in this project is Large Movie Review Dataset. You have to download it separately [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/). You will also need to download [Glove Vectors 50 dimensional](http://nlp.stanford.edu/projects/glove/). The unzipped files of the dataset and glove vectors should be in same folder that contains this README. 
