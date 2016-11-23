@@ -10,7 +10,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 ### Code
 
-There are 3 python files `model1.py`, `model2.py` and `vis.py`. Model 1 and Model 2 contain two different deep learning models implemented in Tensorflow. `vis.py` contains visulaization code for the data. `project5.pdf` contains project report.
+There are 3 python files `model1.py`, `model2.py` and `vis.py`. Model 1 and Model 2 contain two different deep learning models implemented in Tensorflow. `vis.py` contains visualization code for the data. `project5.pdf` contains project report.
 
 ### Run
 
@@ -23,4 +23,4 @@ This will run both deep learning models. But run one deep learning model at a ti
 
 ### Data
 
-The dataset used in this project is Large Movie Review Dataset. You have to download it separately [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/). You will also need to download [Glove Vectors 50 dimensional](http://nlp.stanford.edu/projects/glove/). The unzipped files of the dataset and glove vectors should be in same folder that contains this README. 
+The dataset used in this project is Large Movie Review Dataset. You have to download it separately [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/). You will also need to download [Glove Vectors 50 dimensional](http://nlp.stanford.edu/projects/glove/). The unzipped files of the dataset and glove vectors should be in the same folder that contains this README. 
